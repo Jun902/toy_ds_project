@@ -1,6 +1,3 @@
 # toy_ds_project
-class demo
 
-- demo pen tool
-
-- demo git add, git commit, git push
+project reation date: Feb 5 2026
